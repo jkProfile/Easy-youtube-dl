@@ -12,12 +12,9 @@ https://www.ffmpeg.org/download.html
 Create the following directory:
 C:\python\youtube-dl
 
-Move yt-download.exe, ffmpeg.exe, music.conf, videos.conf, and easy-youtube.py to the C:\python\youtube-dl d
+Move yt-download.exe, ffmpeg.exe, music.conf, videos.conf, and easy-youtube.py to the C:\python\youtube-dl
 
+In the C:\python\youtube-dl directory, right click easy-youtube.py and click "Create Shortcut".
+Drag and drop the shortcut to your start menu. 
 
-
-For simplicity, move the python to the root of your C:\ drive so that it is C:\python\youtube-dl\
-
-You can move the youtube-dl link to your start menu, then right click it and select pin so that its easy to run.
-
-You may need to right click the command prompt window and select edit > paste when you use the program. 
+Open the start menu and click the easy-youtube.py shortcut to run the script.
